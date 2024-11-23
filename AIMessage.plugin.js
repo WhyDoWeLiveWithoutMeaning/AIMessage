@@ -3,8 +3,8 @@
  * @description Adds a button to the text bar that inserts "fart" into the message box when clicked.
  * @version 1.0.0
  * @author Meaning
- * @source https://github.com/your-repo/FartInserter
- * @updateUrl https://github.com/your-repo/FartInserter/FartInserter.plugin.js
+ * @source https://github.com/WhyDoWeLiveWithoutMeaning/AIMessage
+ * @updateUrl https://github.com/WhyDoWeLiveWithoutMeaning/AIMessage/AIMessage.plugin.js
  */
 const config = {
     info: {
@@ -18,9 +18,9 @@ const config = {
       ],
       version: "1.0.0",
       description: "Allows you to connect to the OpenAI API to generate responses for you.",
-      github: "https://github.com/your-repo/FartInserter",
+      github: "https://github.com/WhyDoWeLiveWithoutMeaning/AIMessage",
       github_raw:
-        "https://github.com/your-repo/FartInserter/FartInserter.plugin.js",
+        "https://github.com/WhyDoWeLiveWithoutMeaning/AIMessage/AIMessage.plugin.js",
     },
     defaultConfig: [],
     changelog: [
